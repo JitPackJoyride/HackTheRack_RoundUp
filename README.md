@@ -3,7 +3,7 @@ Welcome to the GitHub Repository of the Hack The Rack group "RoundUp".
 
 We are doing Challenge 1.
 
-Instead of just using static customer segmentation, we suggest that a sustainable CRM model should be dynamic in nature, pinpointing the needs of the customers at the right time.
+Instead of just using static customer segmentation, we suggest that a sustainable CRM model should be dynamic in nature, pinpointing the needs of the customers at the right time and right place with a poisson regression model (found in: https://gallery.azure.ai/Experiment/Poisson-Regression-Roundup).
 
 Using location tags and external data (such as facebook event), we can identify which event our customers will be attending. With this information, we can provide suggestions and promotions that is suitable for them. For example, using the customer's location and API from HK Observatory, we will be able to notify our customers to bring umbrellas or they can rent/ purchase one at our stores. 
 
